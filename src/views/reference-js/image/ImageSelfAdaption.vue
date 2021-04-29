@@ -1,13 +1,12 @@
 <template>
   <div>
-    <!-- 示例 -->
-    CSS
+    <!-- 图片自适应展示 -->
   </div>
 </template>
 
 <script>
 export default {
-  name: 'CSSReference',
+  name: '',
   props: {},
   data() {
     return {}

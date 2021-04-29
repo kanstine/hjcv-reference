@@ -1,0 +1,77 @@
+
+// 效果展示块
+.re-block {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.block-1 {
+  width: 100px;
+  height: 100px;
+  background-color: greenyellow;
+}
+
+.block-2 {
+  width: 100px;
+  height: 100px;
+  background-color: #47acff;
+}
+
+.block-3 {
+  width: 100px;
+  height: 100px;
+  background-color: #8747ff;
+}
+
+.block-4 {
+  width: 100px;
+  height: 100px;
+  background-color: #ff47e0;
+}
+
+.block-5 {
+  width: 100px;
+  height: 100px;
+  background-color: #ff475f;
+}
+
+.block-6 {
+  width: 100px;
+  height: 100px;
+  background-color: #ffa947;
+}
+
+// 间隔
+.ml10 {
+  margin-left: 10px;
+}
+.ml20 {
+  margin-left: 20px;
+}
+.ml30 {
+  margin-left: 30px;
+}
+
+.mr10 {
+  margin-right: 10px;
+}
+.mr20 {
+  margin-right: 20px;
+}
+.mr30 {
+  margin-right: 30px;
+}
+
+.mt10 {
+  margin-top: 10px;
+}
+
+.mb10 {
+  margin-bottom: 10px;
+}
+
+.pall10 {
+  padding: 10px;
+}
