@@ -29,6 +29,12 @@ const jsRouter = {
       component: () => import('@/views/reference-js/context-menu'),
       name: 'contextMenu',
       meta: { title: '右键菜单', noCache: true }
+    },
+    {
+      path: 'imageSelfAdaption',
+      component: () => import('@/views/reference-js/image/ImageSelfAdaption.vue'),
+      name: 'imageSelfAdaption',
+      meta: { title: '图片展示', noCache: true }
     }
   ]
 }
